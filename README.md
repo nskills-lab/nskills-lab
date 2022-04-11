@@ -1,8 +1,11 @@
 # Hi there 👋  
 
+
+
 My name is Nina.  I am a QA Analyst who loves learning everything related to web development.  I’m currently working on completing [The Odin Project's Full Stack Javascript path program](https://www.theodinproject.com/paths/full-stack-javascript?).  My goal is to transition into a developer's position.
 
 
+<br>
 
 ### My Skill Set
 
