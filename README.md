@@ -1,8 +1,17 @@
-# Hi there 👋!  I am Nina.  
+# Hi there 👋  
 
-I am a QA Analist who loves learning everything related to web development.  
+My name is Nina.  I am a QA Analyst who loves learning everything related to web development.  I’m currently working on completing [The Odin Project's Full Stack Javascript path program](https://www.theodinproject.com/paths/full-stack-javascript?).  My goal is to transition into a developer's position.
 
-- 🔭 I’m currently working on completing [The Odin Project's Full Stack Javascript path program](https://www.theodinproject.com/paths/full-stack-javascript?)
+
+
+### My Skill Set
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=60px height=60px/> &nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=60px height=60px/>  &nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=60px height=60px/> &nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width=60px height=60px/>
+          
+          
+          
+          
+          
 
 <!--
 **nskills-lab/nskills-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
