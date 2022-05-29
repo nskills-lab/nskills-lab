@@ -2,7 +2,7 @@
 
 
 
-My name is Nina.  I am a QA Analyst who loves learning everything related to web development.  I’m currently working on completing [The Odin Project's Full Stack Javascript path program](https://www.theodinproject.com/paths/full-stack-javascript?).  
+My name is Nina.  I’m currently working on completing [The Odin Project's Full Stack Javascript path program](https://www.theodinproject.com/paths/full-stack-javascript?).  
 
 <br>
 
